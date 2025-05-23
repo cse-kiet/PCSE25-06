@@ -7,8 +7,14 @@
 
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
+1. [Clone the Repository]
+2. [Install Dependencies]
+3. [ Prepare the Dataset]
+4. [Preprocess the Videos]
+5. [Train the Model ]
+6. [Run Forgery Detection]
+7. [ View Results]
+8. [Evaluate Model]
    (Add more steps as needed)
 
 ## Checklist:
