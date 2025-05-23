@@ -1,10 +1,10 @@
 # Title of Project: [PROJECT_TITLE_HERE]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. [Abhishek Dubey 2100290100007]
+2. [Ayush Kumar 2100290100041]
+3. [Ayush Yadav 2100290100046]
+
 
 ## Steps for Execution:
 1. [STEP 1]
