@@ -15,7 +15,7 @@
 6. [Run Forgery Detection]
 7. [ View Results]
 8. [Evaluate Model]
-   (Add more steps as needed)
+   
 
 ## Checklist:
 1. Final Project Report
